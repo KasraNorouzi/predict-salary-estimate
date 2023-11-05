@@ -1,14 +1,23 @@
 Salary Estimate Prediction Project
+
 Overview
+
 The Salary Estimate Prediction Project is a data analysis and machine learning project designed to predict salaries for data-related positions based on location, company reviews, and job titles. This project aims to help job seekers and employers gain insights into salary expectations for data-related roles.
 
 Table of Contents
+
 Objective
+
 Data Preparation
+
 Data Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Feature Engineering
+
 Modeling
+
 Prediction
 Model Saving
 Objective
